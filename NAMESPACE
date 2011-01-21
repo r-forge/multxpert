@@ -1,3 +1,0 @@
-importFrom(mvtnorm, pmvt, qmvt)
-
-export(paradjp, pargateadjp, pvaladjp, pvalci, parci)
